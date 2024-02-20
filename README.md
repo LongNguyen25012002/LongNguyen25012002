@@ -1,5 +1,5 @@
 ### Welcome!
-_________________________
+---
 
 Xinh chào tôi là Nguyễn Đức Long 👋
 
@@ -7,13 +7,15 @@ Tôi là nhà phát triển front-end và các công nghệ xoay quanh công vi�
 
 Kĩ năng hiện tại của tôi:
 
-- **Languages:**: HTML, CSS, JavaScript, TypeScript, Markdown
-- **CSS Frameworks/Libraries:**: HTML, CSS, JavaScript, TypeScript, Markdown
-- **Js Frameworks/Libraries:**: ReactJs,Redux, Redux Toolkit
-- **Version Control and Collaboration:**: Git, GitHub
-- **Development Tools and Services:**: VsCode,Firebase
-- **Design and Documentation:**: Figma
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Markdown
+- **CSS Frameworks/Libraries:** HTML, CSS, JavaScript, TypeScript, Markdown
+- **Js Frameworks/Libraries:** ReactJs, Redux, Redux Toolkit
+- **Version Control and Collaboration:** Git, GitHub
+- **Development Tools and Services:** VsCode, Firebase
+- **Design and Documentation:** Figma
 
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!-- Languages: HTML, CSS, JavaScript, TypeScript, SCSS, Markdown
 CSS Frameworks/Libraries: Styled-components, Tailwind CSS, Ant Design, Chakra UI
