@@ -21,7 +21,7 @@ Liên hệ tôi qua 👇:
 [![<img src="[image.png](https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256)" width="50"/>](image.png)](https://www.facebook.com/profile.php?id=100014107590054)
 ![facebook](https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256){:height="36px" width="36px"}
 
-![facebook](https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256){ width="36px"}
+<img src="[http://....jpg](https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256)")" width="50" height="50" />
 <!-- Languages: HTML, CSS, JavaScript, TypeScript, SCSS, Markdown
 CSS Frameworks/Libraries: Styled-components, Tailwind CSS, Ant Design, Chakra UI
 Js Frameworks/Libraries: ReactJs, Next.js, Vue.js, Redux Toolkit, Zustand
