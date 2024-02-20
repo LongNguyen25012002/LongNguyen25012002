@@ -19,13 +19,10 @@ Kĩ năng hiện tại của tôi:
 
 Liên hệ tôi qua 👇:
 
-[![<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256" width="50" />](https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256)](https://www.facebook.com/profile.php?id=100014107590054)
-
 <a href="https://www.facebook.com/profile.php?id=100014107590054" target="_blank">
 <figure>
     <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256" width="30"
          alt="Albuquerque, New Mexico">
-    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
 </figure>
 </a>
 
