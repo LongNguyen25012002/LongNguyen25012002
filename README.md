@@ -19,9 +19,8 @@ Kĩ năng hiện tại của tôi:
 
 Liên hệ tôi qua 👇:
 [![<img src="[image.png](https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256)" width="50"/>](image.png)](https://www.facebook.com/profile.php?id=100014107590054)
-[<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256" width="50"/>](https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256)
+[![<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256" width="30" height="30" />](https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256)](https://www.facebook.com/profile.php?id=100014107590054)
 
-[<img src="image.png" width="250"/>](image.png)
 <!-- Languages: HTML, CSS, JavaScript, TypeScript, SCSS, Markdown
 CSS Frameworks/Libraries: Styled-components, Tailwind CSS, Ant Design, Chakra UI
 Js Frameworks/Libraries: ReactJs, Next.js, Vue.js, Redux Toolkit, Zustand
