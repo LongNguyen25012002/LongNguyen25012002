@@ -18,7 +18,8 @@ Kĩ năng hiện tại của tôi:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 Liên hệ tôi qua 👇:
-[![<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256" width="30" />](https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256)](https://www.facebook.com/profile.php?id=100014107590054)
+
+[![<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256" width="50" />](https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256)](https://www.facebook.com/profile.php?id=100014107590054)
 
 <!-- Languages: HTML, CSS, JavaScript, TypeScript, SCSS, Markdown
 CSS Frameworks/Libraries: Styled-components, Tailwind CSS, Ant Design, Chakra UI
