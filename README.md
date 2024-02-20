@@ -26,7 +26,7 @@ Liên hệ tôi qua 👇:
 </figure>
 </a>
 
-<a href="https://www.instagram.com/ndl.23" target="_blank">
+<a href="https://www.instagram.com/ndl.23" target="_blank" style={display: inline-block;}>
 <figure>
     <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/instagram-2752153-2284970.png?f=webp&w=256" width="30"
          alt="instargam">
