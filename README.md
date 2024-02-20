@@ -17,6 +17,10 @@ Kĩ năng hiện tại của tôi:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+Liên hệ tôi qua 👇:
+
+
+
 <!-- Languages: HTML, CSS, JavaScript, TypeScript, SCSS, Markdown
 CSS Frameworks/Libraries: Styled-components, Tailwind CSS, Ant Design, Chakra UI
 Js Frameworks/Libraries: ReactJs, Next.js, Vue.js, Redux Toolkit, Zustand
