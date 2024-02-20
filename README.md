@@ -22,7 +22,13 @@ Liên hệ tôi qua 👇:
 <a href="https://www.facebook.com/profile.php?id=100014107590054" target="_blank">
 <figure>
     <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/facebook-2752192-2285009.png?f=webp&w=256" width="30"
-         alt="Albuquerque, New Mexico">
+         alt="facebook=profile">
+</figure>
+</a>
+<a href="https://www.instagram.com/ndl.23" target="_blank">
+<figure>
+    <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/instagram-2752153-2284970.png?f=webp&w=256" width="30"
+         alt="instargam">
 </figure>
 </a>
 
