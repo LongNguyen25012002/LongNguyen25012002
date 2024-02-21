@@ -1,4 +1,4 @@
-### Welcome! { border-bottom: 1px solid black; }
+### Welcome!
 ---
 
 Xinh chào tôi là Nguyễn Đức Long 👋
