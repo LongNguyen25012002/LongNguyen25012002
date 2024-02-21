@@ -1,4 +1,4 @@
-### Welcome!
+### Welcome! { border-bottom: 1px solid black; }
 ---
 
 Xinh chào tôi là Nguyễn Đức Long 👋
@@ -32,12 +32,6 @@ Liên hệ tôi qua 👇:
          alt="instargam">
 </figure>
 </a>
-
-Try to put a blank line before...
-
----
-
-...and after a horizontal rule.
 
 <!-- Languages: HTML, CSS, JavaScript, TypeScript, SCSS, Markdown
 CSS Frameworks/Libraries: Styled-components, Tailwind CSS, Ant Design, Chakra UI
