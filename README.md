@@ -8,7 +8,7 @@ Tôi là nhà phát triển front-end và các công nghệ xoay quanh công vi�
 Kĩ năng hiện tại của tôi:
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript, Markdown
-- **CSS Frameworks/Libraries:** HTML, CSS, JavaScript, TypeScript, Markdown
+- **CSS Frameworks/Libraries:** CSS, SCSS, Tailwind CSS,
 - **Js Frameworks/Libraries:** ReactJs, Redux, Redux Toolkit
 - **Version Control and Collaboration:** Git, GitHub
 - **Development Tools and Services:** VsCode, Firebase
